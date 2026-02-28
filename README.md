@@ -25,9 +25,9 @@ Ben bir web geliştirici ve açık kaynak tutkunuyum. Node.js, SEO araçları ve
 
 ## Son Blog Yazısı
 
-**[Site İçi Arama Verileri ile Yeni İçerik Fikirleri Bulun](https://turkcode.net/blog/site-ici-arama-verileri-ile-yeni-icerik-fikirleri-bulun)**
+**[Cypress: Modern Web Test Otomasyonu](https://turkcode.net/blog/cypress-modern-web-test-otomasyonu)**
 
-Site İçi Arama Verileri ile Yeni İçerik Fikirleri Bulun konusunda bilgi edinerek, web sitenizin potansiyelini artırmanın yollarını keşfedeceksiniz. Bu makale...
+Cypress: Modern Web Test Otomasyonu ile web uygulamalarınızı daha etkili bir şekilde test etmenin yollarını keşfedeceksiniz. Bu yazıda, Cypress'in nasıl çalı...
 
 [Tüm yazıları oku →](https://turkcode.net/blog)
 
