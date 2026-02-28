@@ -25,9 +25,9 @@ Ben bir web geliştirici ve açık kaynak tutkunuyum. Node.js, SEO araçları ve
 
 ## Son Blog Yazısı
 
-**[Dağıtık Eğitim (Distributed Training) ve Horovod](https://turkcode.net/blog/dagitik-egitim-distributed-training-ve-horovod)**
+**[Site İçi Arama Verileri ile Yeni İçerik Fikirleri Bulun](https://turkcode.net/blog/site-ici-arama-verileri-ile-yeni-icerik-fikirleri-bulun)**
 
-Dağıtık Eğitim (Distributed Training) ve Horovod, modern makine öğrenimi süreçlerinde performansı artırmak için kritik bir rol oynamaktadır. Bu yazıda, dağıt...
+Site İçi Arama Verileri ile Yeni İçerik Fikirleri Bulun konusunda bilgi edinerek, web sitenizin potansiyelini artırmanın yollarını keşfedeceksiniz. Bu makale...
 
 [Tüm yazıları oku →](https://turkcode.net/blog)
 
