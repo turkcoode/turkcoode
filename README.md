@@ -19,18 +19,6 @@ Ben bir web geliştirici ve açık kaynak tutkunuyum. Node.js, SEO araçları ve
 
 ---
 
-🔗 [TURK CODE](https://turkcode.net) | 📦 1 Proje | 📝 1 Gist
+🔗 [TURK CODE](https://turkcode.net) | 📦 1 Proje | 📝 2 Gist
 
-*Son güncelleme: 27 Şubat 2026*
-
-## Son Blog Yazısı
-
-**[SaaS Yazılımlarında OAuth2 İstemci ve Sunucu Yapılandırması](https://turkcode.net/blog/saas-yazilimlarinda-oauth2-istemci-ve-sunucu-yapilandirmasi)**
-
-SaaS Yazılımlarında OAuth2 İstemci ve Sunucu Yapılandırması hakkında bilgi edinmek, yazılım güvenliğinizi artırmanın anahtarıdır. Bu yazıda, OAuth2’nin ne ol...
-
-[Tüm yazıları oku →](https://turkcode.net/blog)
-
----
-
-*[TURK CODE](https://turkcode.net) - Teknoloji, yazılım ve dijital çözümler*
+*Son güncelleme: 28 Şubat 2026*
