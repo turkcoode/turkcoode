@@ -22,3 +22,15 @@ Ben bir web geliştirici ve açık kaynak tutkunuyum. Node.js, SEO araçları ve
 🔗 [TURK CODE](https://turkcode.net) | 📦 1 Proje | 📝 1 Gist
 
 *Son güncelleme: 27 Şubat 2026*
+
+## Son Blog Yazısı
+
+**[Dağıtık Eğitim (Distributed Training) ve Horovod](https://turkcode.net/blog/dagitik-egitim-distributed-training-ve-horovod)**
+
+Dağıtık Eğitim (Distributed Training) ve Horovod, modern makine öğrenimi süreçlerinde performansı artırmak için kritik bir rol oynamaktadır. Bu yazıda, dağıt...
+
+[Tüm yazıları oku →](https://turkcode.net/blog)
+
+---
+
+*[TURK CODE](https://turkcode.net) - Teknoloji, yazılım ve dijital çözümler*
