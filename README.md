@@ -25,9 +25,9 @@ Ben bir web geliştirici ve açık kaynak tutkunuyum. Node.js, SEO araçları ve
 
 ## Son Blog Yazısı
 
-**[Cypress: Modern Web Test Otomasyonu](https://turkcode.net/blog/cypress-modern-web-test-otomasyonu)**
+**[SaaS Yazılımlarında OAuth2 İstemci ve Sunucu Yapılandırması](https://turkcode.net/blog/saas-yazilimlarinda-oauth2-istemci-ve-sunucu-yapilandirmasi)**
 
-Cypress: Modern Web Test Otomasyonu ile web uygulamalarınızı daha etkili bir şekilde test etmenin yollarını keşfedeceksiniz. Bu yazıda, Cypress'in nasıl çalı...
+SaaS Yazılımlarında OAuth2 İstemci ve Sunucu Yapılandırması hakkında bilgi edinmek, yazılım güvenliğinizi artırmanın anahtarıdır. Bu yazıda, OAuth2’nin ne ol...
 
 [Tüm yazıları oku →](https://turkcode.net/blog)
 
