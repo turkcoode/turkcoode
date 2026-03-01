@@ -25,9 +25,9 @@ Ben bir web geliştirici ve açık kaynak tutkunuyum. Node.js, SEO araçları ve
 
 ## Son Blog Yazısı
 
-**[SaaS Yazılımlarında IP Tabanlı Erişim Kısıtlama](https://turkcode.net/blog/saas-yazilimlarinda-ip-tabanli-erisim-kisitlama)**
+**[Vatandaş Veri Bilimi](https://turkcode.net/blog/vatandas-veri-bilimi)**
 
-SaaS Yazılımlarında IP Tabanlı Erişim Kısıtlama, işletmelerin veri güvenliğini artırmak ve yetkisiz erişimleri engellemek için kritik bir yöntemdir. Bu yazıd...
+Vatandaş Veri Bilimi, günümüzde bireylerin veri analizi ve yorumlama yeteneklerini kullanarak toplumsal sorunlara çözüm bulmalarını sağlayan bir alandır. Bu ...
 
 [Tüm yazıları oku →](https://turkcode.net/blog)
 
