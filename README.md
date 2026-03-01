@@ -25,9 +25,9 @@ Ben bir web geliştirici ve açık kaynak tutkunuyum. Node.js, SEO araçları ve
 
 ## Son Blog Yazısı
 
-**[Claudeun Bir Metni Daha Kısa ve Öz Hale Getirerek Vurgulaması](https://turkcode.net/blog/claudeun-bir-metni-daha-kisa-ve-oz-hale-getirerek-vurgulamasi)**
+**[Yazılım Sektöründe Yazılımcıların Pasif Gelir Elde Etme Yolları](https://turkcode.net/blog/yazilim-sektorunde-yazilimcilarin-pasif-gelir-elde-etme-yollari)**
 
-Claude'un Bir Metni Daha Kısa ve Öz Hale Getirerek Vurgulaması, yazılı iletişimin etkisini artırmanın anahtarıdır. Bu yazıda, okuyuculara metin kısaltma tekn...
+Yazılım sektöründe yazılımcıların pasif gelir elde etme yolları, günümüzün dijital dünyasında büyük bir fırsat sunuyor. Bu makalede, yazılımcıların ek gelir ...
 
 [Tüm yazıları oku →](https://turkcode.net/blog)
 
