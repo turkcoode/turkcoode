@@ -22,3 +22,15 @@ Ben bir web geliştirici ve açık kaynak tutkunuyum. Node.js, SEO araçları ve
 🔗 [TURK CODE](https://turkcode.net) | 📦 1 Proje | 📝 2 Gist
 
 *Son güncelleme: 28 Şubat 2026*
+
+## Son Blog Yazısı
+
+**[Negatif SEO Saldırıları: Sitenizi Rakiplerden Nasıl Korursunuz?](https://turkcode.net/blog/negatif-seo-saldirilari-sitenizi-rakiplerden-nasil-korursunuz)**
+
+Negatif SEO Saldırıları: Sitenizi Rakiplerden Nasıl Korursunuz? Bu makalede, rakiplerinizin olumsuz SEO tekniklerine karşı sitenizi nasıl koruyabileceğinizi ...
+
+[Tüm yazıları oku →](https://turkcode.net/blog)
+
+---
+
+*[TURK CODE](https://turkcode.net) - Teknoloji, yazılım ve dijital çözümler*
