@@ -25,9 +25,9 @@ Ben bir web geliştirici ve açık kaynak tutkunuyum. Node.js, SEO araçları ve
 
 ## Son Blog Yazısı
 
-**[AI Talent Acquisition ve Upskilling Strategies](https://turkcode.net/blog/ai-talent-acquisition-ve-upskilling-strategies)**
+**[Yapay Zeka ve Tarih: Geçmiş ve Gelecek](https://turkcode.net/blog/yapay-zeka-ve-tarih-gecmis-ve-gelecek)**
 
-AI Talent Acquisition ve Upskilling Strategies konusunda bilgi edinmek, modern iş gücünün dinamiklerini anlamak için kritik öneme sahiptir. Bu yazıda, yapay ...
+Yapay Zeka ve Tarih: Geçmiş ve Gelecek, insanlık tarihinin en heyecan verici dönüşümlerinden birini ele alıyor. Bu yazıda, yapay zekanın tarihsel gelişimini ...
 
 [Tüm yazıları oku →](https://turkcode.net/blog)
 
